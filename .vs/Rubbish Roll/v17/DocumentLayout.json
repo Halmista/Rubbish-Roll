@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "D:\\Users\\desma\\Documents\\Rubbish Roll\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D9477926-2ACF-EF31-A443-F2319431C5B4}|Assembly-CSharp.csproj|d:\\users\\desma\\documents\\rubbish roll\\assets\\scripts\\slimewobble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9477926-2ACF-EF31-A443-F2319431C5B4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\slimewobble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D9477926-2ACF-EF31-A443-F2319431C5B4}|Assembly-CSharp.csproj|D:\\Users\\desma\\Documents\\Rubbish Roll\\assets\\scripts\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9477926-2ACF-EF31-A443-F2319431C5B4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9477926-2ACF-EF31-A443-F2319431C5B4}|Assembly-CSharp.csproj|d:\\users\\desma\\documents\\rubbish roll\\assets\\scripts\\slimesticksystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D9477926-2ACF-EF31-A443-F2319431C5B4}|Assembly-CSharp.csproj|D:\\Users\\desma\\Documents\\Rubbish Roll\\assets\\scripts\\slimesticksystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9477926-2ACF-EF31-A443-F2319431C5B4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\slimesticksystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -15,8 +15,8 @@
       "RelativeMoniker": "D:0:0:{D9477926-2ACF-EF31-A443-F2319431C5B4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\slimecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9477926-2ACF-EF31-A443-F2319431C5B4}|Assembly-CSharp.csproj|D:\\Users\\desma\\Documents\\Rubbish Roll\\assets\\scripts\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9477926-2ACF-EF31-A443-F2319431C5B4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D9477926-2ACF-EF31-A443-F2319431C5B4}|Assembly-CSharp.csproj|d:\\users\\desma\\documents\\rubbish roll\\assets\\scripts\\slimewobble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9477926-2ACF-EF31-A443-F2319431C5B4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\slimewobble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D9477926-2ACF-EF31-A443-F2319431C5B4}|Assembly-CSharp.csproj|D:\\Users\\desma\\Documents\\Rubbish Roll\\assets\\scripts\\trash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -64,14 +64,14 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\SlimeStickSystem.cs",
               "ToolTip": "D:\\Users\\desma\\Documents\\Rubbish Roll\\Assets\\Scripts\\SlimeStickSystem.cs",
               "RelativeToolTip": "Assets\\Scripts\\SlimeStickSystem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowBMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-05T16:39:38.339Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "SlimeWobble.cs",
               "DocumentMoniker": "D:\\Users\\desma\\Documents\\Rubbish Roll\\Assets\\Scripts\\SlimeWobble.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SlimeWobble.cs",
@@ -96,15 +96,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "CameraFollow.cs",
               "DocumentMoniker": "D:\\Users\\desma\\Documents\\Rubbish Roll\\Assets\\Scripts\\CameraFollow.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CameraFollow.cs",
               "ToolTip": "D:\\Users\\desma\\Documents\\Rubbish Roll\\Assets\\Scripts\\CameraFollow.cs",
               "RelativeToolTip": "Assets\\Scripts\\CameraFollow.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwCsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-05T15:37:35.805Z"
+              "WhenOpened": "2026-06-05T15:37:35.805Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -114,7 +115,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\SlimeController.cs",
               "ToolTip": "D:\\Users\\desma\\Documents\\Rubbish Roll\\Assets\\Scripts\\SlimeController.cs",
               "RelativeToolTip": "Assets\\Scripts\\SlimeController.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAUwDkAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAAAqwEMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-05T15:26:56.474Z",
               "EditorCaption": ""
