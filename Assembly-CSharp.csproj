@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{D9477926-2ACF-EF31-A443-F2319431C5B4}</ProjectGuid>
+    <ProjectGuid>{D0AD997F-8655-9192-335C-30F30E21E1A7}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -64,6 +64,7 @@
     <Compile Include="Assets\Scripts\SlimeWobble.cs" />
     <Compile Include="Assets\Scripts\SlimeController.cs" />
     <Compile Include="Assets\Scripts\Trash.cs" />
+    <Compile Include="Assets\Scripts\GameManager.cs" />
     <Compile Include="Assets\Scripts\SlimeStickSystem.cs" />
     <Compile Include="Assets\Scripts\CameraFollow.cs" />
   </ItemGroup>

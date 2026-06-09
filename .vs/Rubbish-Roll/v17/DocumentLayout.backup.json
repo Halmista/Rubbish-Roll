@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UNITY PROJECTS\\Rubbish-Roll\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0AD997F-8655-9192-335C-30F30E21E1A7}|Assembly-CSharp.csproj|d:\\unity projects\\rubbish-roll\\assets\\scripts\\slimecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0AD997F-8655-9192-335C-30F30E21E1A7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\slimecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0AD997F-8655-9192-335C-30F30E21E1A7}|Assembly-CSharp.csproj|d:\\unity projects\\rubbish-roll\\assets\\scripts\\trash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0AD997F-8655-9192-335C-30F30E21E1A7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\trash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0AD997F-8655-9192-335C-30F30E21E1A7}|Assembly-CSharp.csproj|d:\\unity projects\\rubbish-roll\\assets\\scripts\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0AD997F-8655-9192-335C-30F30E21E1A7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SlimeController.cs",
+              "DocumentMoniker": "D:\\UNITY PROJECTS\\Rubbish-Roll\\Assets\\Scripts\\SlimeController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SlimeController.cs",
+              "ToolTip": "D:\\UNITY PROJECTS\\Rubbish-Roll\\Assets\\Scripts\\SlimeController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SlimeController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T12:43:57.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Trash.cs",
+              "DocumentMoniker": "D:\\UNITY PROJECTS\\Rubbish-Roll\\Assets\\Scripts\\Trash.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Trash.cs",
+              "ToolTip": "D:\\UNITY PROJECTS\\Rubbish-Roll\\Assets\\Scripts\\Trash.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Trash.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T12:43:11.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CameraFollow.cs",
+              "DocumentMoniker": "D:\\UNITY PROJECTS\\Rubbish-Roll\\Assets\\Scripts\\CameraFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraFollow.cs",
+              "ToolTip": "D:\\UNITY PROJECTS\\Rubbish-Roll\\Assets\\Scripts\\CameraFollow.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraFollow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T12:33:12.505Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

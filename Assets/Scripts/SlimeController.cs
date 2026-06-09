@@ -6,10 +6,12 @@ public class SlimeController : MonoBehaviour
 
     private Rigidbody rb;
 
-    int collected = 0;
+    public int collected = 0;
 
     public SlimeStickSystem stickSystem;
     public float slimeSize = 1f;
+
+    public GameManager gameManager;
 
 
     void Start()
@@ -53,6 +55,7 @@ public class SlimeController : MonoBehaviour
                 stickSystem.Stick(other.transform, dir);
 
                 Grow();
+                gameManager.AbsorbedTrash();
             }
         }
     }
